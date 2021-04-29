@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <PLANT>
+    <COMMON>Crowfoot</COMMON>
+    <BOTANICAL>Ranunculus</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Shade</LIGHT>
+    <PRICE>$9.34</PRICE>
+    <AVAILABILITY>040399</AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Butterfly-Weed</COMMON>
+    <BOTANICAL>Asclepias-tuberosa</BOTANICAL>
+    <ZONE>Annual</ZONE>
+    <LIGHT>Sunny</LIGHT>
+    <PRICE>$2.78</PRICE>
+    <AVAILABILITY>063099</AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Cinquefoil</COMMON>
+    <BOTANICAL>Potentilla</BOTANICAL>
+    <ZONE>Annual</ZONE>
+    <LIGHT>Shade</LIGHT>
+    <PRICE>$7.06</PRICE>
+    <AVAILABILITY>052599</AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Primrose</COMMON>
+    <BOTANICAL>Oenothera</BOTANICAL>
+    <ZONE>35</ZONE>
+    <LIGHT>Sunny</LIGHT>
+    <PRICE>$6.56</PRICE>
+    <AVAILABILITY>013099</AVAILABILITY>
+  </PLANT>
+</CATALOG>

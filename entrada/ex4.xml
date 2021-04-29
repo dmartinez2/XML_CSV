@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <PLANT>
+    <COMMON>Bee-Balm</COMMON>
+    <BOTANICAL>Monarda-didyma</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Shade</LIGHT>
+    <PRICE>$4.59</PRICE>
+    <AVAILABILITY>050399</AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Bergamot</COMMON>
+    <BOTANICAL>Monarda-didyma</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Shade</LIGHT>
+    <PRICE>$7.16</PRICE>
+    <AVAILABILITY>042799</AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Black-Eyed-Susan</COMMON>
+    <BOTANICAL>Rudbeckia-hirta</BOTANICAL>
+    <ZONE>Annual</ZONE>
+    <LIGHT>Sunny</LIGHT>
+    <PRICE>$9.80</PRICE>
+    <AVAILABILITY>061899</AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Buttercup</COMMON>
+    <BOTANICAL>Ranunculus</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Shade</LIGHT>
+    <PRICE>$2.57</PRICE>
+    <AVAILABILITY>061099</AVAILABILITY>
+  </PLANT>
+</CATALOG>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <PLANT>
+    <COMMON>Gentian</COMMON>
+    <BOTANICAL>Gentiana</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Sun-or-Shade</LIGHT>
+    <PRICE>$7.81</PRICE>
+    <AVAILABILITY>051899</AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Blue-Gentian</COMMON>
+    <BOTANICAL>Gentiana</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Sun-or-Shade</LIGHT>
+    <PRICE>$8.56</PRICE>
+    <AVAILABILITY>050299</AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Jacob's-Ladder</COMMON>
+    <BOTANICAL>Polemonium-caeruleum</BOTANICAL>
+    <ZONE>Annual</ZONE>
+    <LIGHT>Shade</LIGHT>
+    <PRICE>$9.26</PRICE>
+    <AVAILABILITY>022199</AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Greek-Valerian</COMMON>
+    <BOTANICAL>Polemonium-caeruleum</BOTANICAL>
+    <ZONE>Annual</ZONE>
+    <LIGHT>Shade</LIGHT>
+    <PRICE>$4.36</PRICE>
+    <AVAILABILITY>071499</AVAILABILITY>
+  </PLANT>
+</CATALOG>
