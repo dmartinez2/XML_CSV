@@ -124,12 +124,13 @@ class xml_sql():
         cursor = connect.cursor()
         sql = 'insert into tabla_de_plantas(COMMON, BOTANICAL, ZONE, LIGHT, PRICE, AVAILABILITY) values(%s,%s,%s,%s,%s,%s)'
         for data in datos:
+            print(data)
             cursor.execute(sql, data)
+            input()
         connect.commit()
         connect.close()  
 
 def consulta():
-    import os
     import mysql.connector
     connect = mysql.connector.connect(
             host='localhost',
@@ -141,10 +142,8 @@ def consulta():
     try:
         cursor.execute('SELECT * FROM tabla_de_plantas')
         plantas = cursor.fetchall()
-        os.system('echo N, COMMON, BOTANICAL, ZONE, LIGHT, PRICE, AVAILABILITY >salida/export_visual.csv')
         for planta in plantas:
             print(planta)
-            os.system(f'echo {planta} >>salida/export_visual.csv')
         connect.close()
     except:
         print('Ha habido algún error.')
