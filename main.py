@@ -8,4 +8,3 @@ datos = xml_sql.upload()
 xml_sql.subir(datos)
 
 consulta()
-
