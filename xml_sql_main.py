@@ -126,7 +126,6 @@ class xml_sql():
         for data in datos:
             print(data)
             cursor.execute(sql, data)
-            input()
         connect.commit()
         connect.close()  
 
